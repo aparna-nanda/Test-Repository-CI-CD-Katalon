@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Add Student_fa fa-times</name>
+   <tag></tag>
+   <elementGuidId>a52e2dcd-4474-4d94-8c85-0c300cfa9ac3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-times</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//eas-mon-alert-message/div/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b8353ffe-a2c3-44a5-9d86-11c7ca1207b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>514310e2-f9a7-492e-b44d-cdfb1f44e1f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-times</value>
+      <webElementGuid>9cd30930-1468-4f21-b172-0d71794ce057</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/eas-core-application-container[1]/div[@class=&quot;exp-application&quot;]/div[@class=&quot;exp-content hide-spliter&quot;]/as-split[@class=&quot;as-horizontal as-pixel as-init&quot;]/as-split-area[@class=&quot;as-split-area&quot;]/div[@class=&quot;exp-panel&quot;]/div[@class=&quot;container-fluid&quot;]/app-questions-tab[1]/div[1]/div[@class=&quot;container-fluid results-section&quot;]/eas-mon-surveys-container[1]/div[1]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;ohio-card ode-section clearfix&quot;]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/eas-mon-survey-list[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 child&quot;]/eas-mon-child-survey-list[1]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/div[@class=&quot;ohio-table&quot;]/table[@class=&quot;table table-striped table-hover&quot;]/tbody[1]/tr[5]/td[@class=&quot;view-line-container&quot;]/eas-mon-add-rcw-student[1]/div[@class=&quot;view-line-card&quot;]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[1]/eas-mon-alert-message[1]/div[@class=&quot;ohio-alert alert alert-danger alert-dismissible&quot;]/button[@class=&quot;close&quot;]/i[@class=&quot;fa fa-times&quot;]</value>
+      <webElementGuid>c1ff7758-41eb-49ba-898a-250f0962ad66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//eas-mon-alert-message/div/button/i</value>
+      <webElementGuid>d9b751cb-f8cf-48ce-9071-9105157420c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

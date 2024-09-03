@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ESSER State Activities Project 1 Reporting</name>
+   <tag></tag>
+   <elementGuidId>aeb0797a-ca3b-45f7-be92-da2bd8d5621e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='sectionName1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#sectionName1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>304ff602-c803-4e30-81c2-02b38d52db45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sectionName1</value>
+      <webElementGuid>1f0b31b0-62a3-4895-9cc9-2e3b1bfcc0cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ESSER State Activities Project 1 Reporting</value>
+      <webElementGuid>16197890-90e1-4fbf-939e-7790615e7c21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sectionName1&quot;)</value>
+      <webElementGuid>cbe73667-4e57-40c8-8a22-3d9f12d57ee9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='sectionName1']</value>
+      <webElementGuid>1529d7ea-e541-4298-b178-4b423ca7329b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='section1']/span/span[2]</value>
+      <webElementGuid>d25e6e25-b62f-4945-a147-9dfebd1d1fdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ESSER State Activities Projects - Quarterly Survey'])[1]/following::span[8]</value>
+      <webElementGuid>0a7cfa3b-38d3-4103-bf35-a69c94e146fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LEA'])[1]/following::span[11]</value>
+      <webElementGuid>ebe60f75-638a-47f3-a0e5-26d154a48153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Questions'])[2]/preceding::span[6]</value>
+      <webElementGuid>b4ddcdf3-934f-46aa-a4f8-127aac8ad992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FY 2024 ESSER State Activities Projects - Quarterly Data Reporting Survey'])[3]/preceding::span[6]</value>
+      <webElementGuid>779ef356-a1b6-40b5-a903-420784c9b70b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ESSER State Activities Project 1 Reporting']/parent::*</value>
+      <webElementGuid>01a2e378-2509-4b6d-af05-944da88f0502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/li/a/span/span[2]</value>
+      <webElementGuid>441587e4-178c-44d8-8f00-07fa4e9f9225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'sectionName1' and (text() = 'ESSER State Activities Project 1 Reporting' or . = 'ESSER State Activities Project 1 Reporting')]</value>
+      <webElementGuid>cf320c52-09dd-4785-9fa2-16a1f9ebc1fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Issue Search</description>
+   <name>Issue Search_Flags</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3387a283-3263-4a14-bbb2-5abcca3a4f7c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5fec65a4-e91a-4ec8-86a5-e328c22533b2</id>
+      <masked>false</masked>
+      <name>IRN</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>96cf20f0-821f-4470-97ba-9fd674d628e8</id>
+      <masked>false</masked>
+      <name>Sponsor</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>14dcb682-3c9c-4bb5-bf7a-06586c9420a6</id>
+      <masked>false</masked>
+      <name>Id</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5030bc05-8ca8-4470-a718-9464e7b55901</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e234b9ee-68ef-47cf-a5c5-71571b3ee90d</id>
+      <masked>false</masked>
+      <name>Source</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4adb16e3-e1d2-4c3c-abad-cf0f768d53d6</id>
+      <masked>false</masked>
+      <name>Flags</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1472977e-7a90-4a07-adc3-926eff5b534e</id>
+      <masked>false</masked>
+      <name>Consultants</name>
+   </variable>
+</TestCaseEntity>

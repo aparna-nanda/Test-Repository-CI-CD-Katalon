@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Issue Search</description>
+   <name>Issue Search_Building</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5a73c53-a5ce-41fc-8690-c33822ece88c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0ae99cb2-7e1b-4af0-9d1f-38af7ba749c6</id>
+      <masked>false</masked>
+      <name>IRN</name>
+   </variable>
+</TestCaseEntity>

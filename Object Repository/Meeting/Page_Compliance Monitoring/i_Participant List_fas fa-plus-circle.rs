@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Participant List_fas fa-plus-circle</name>
+   <tag></tag>
+   <elementGuidId>f7784570-81dc-4ace-8896-ee84e05ea70c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-plus-circle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3e0392c2-d768-43fc-bec3-b3d818d90a0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-plus-circle</value>
+      <webElementGuid>59e9579d-802c-492e-9439-4e45e9ce0091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>3122206e-5c25-40a7-86ef-f1ccf3a4c2c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/eas-core-application-container[1]/div[@class=&quot;exp-application&quot;]/div[@class=&quot;exp-content hide-spliter&quot;]/as-split[@class=&quot;as-horizontal as-pixel as-init&quot;]/as-split-area[@class=&quot;as-split-area&quot;]/div[@class=&quot;exp-panel&quot;]/div[@class=&quot;container-fluid&quot;]/app-meeting[1]/div[@class=&quot;table-display&quot;]/div[@class=&quot;container-fluid results-section&quot;]/div[@class=&quot;ohio-card ode-section clearfix&quot;]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/app-new-meeting[1]/div[@class=&quot;row fade-in&quot;]/div[@class=&quot;col-md-12&quot;]/app-meeting-participant[1]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;participant-container section-focus&quot;]/div[1]/a[@class=&quot;show-more-mobile&quot;]/i[@class=&quot;fas fa-plus-circle&quot;]</value>
+      <webElementGuid>da012087-3958-476e-aa91-5b91406edddb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/a/i</value>
+      <webElementGuid>26e5f3cc-d6d4-406b-8d36-01d9edfbcc47</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

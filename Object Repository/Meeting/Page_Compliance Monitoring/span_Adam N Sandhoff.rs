@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Adam N Sandhoff</name>
+   <tag></tag>
+   <elementGuidId>9ac6d05a-942b-489b-b41b-e87b4c206ca1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-option-label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a463f05d3327-0']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>732c23e4-92d2-4154-8c97-a7434fe4bcdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-option-label</value>
+      <webElementGuid>1fa859ca-3a23-4aa8-ad02-cb9c900f9589</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Adam N Sandhoff</value>
+      <webElementGuid>58958499-fc7d-4d90-b2aa-dd40c1ca2322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a463f05d3327-0&quot;)/span[@class=&quot;ng-option-label&quot;]</value>
+      <webElementGuid>60ed8620-f8b6-4f7d-bb72-16bbe293f509</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a463f05d3327-0']/span</value>
+      <webElementGuid>f017e94c-a4ff-4c97-a83d-5c539d5b2ef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::span[3]</value>
+      <webElementGuid>ec112025-b74a-4bfc-a08a-07ef8e71f43c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Adam N Sandhoff']/parent::*</value>
+      <webElementGuid>3a5a13c3-4238-4851-b590-e36fefd762a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-dropdown-panel/div/div[2]/div/span</value>
+      <webElementGuid>03c355ba-f4a5-42e6-b698-3f53dd4435f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Adam N Sandhoff' or . = 'Adam N Sandhoff')]</value>
+      <webElementGuid>ce7398d8-1564-4228-8936-8036c9e6640a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

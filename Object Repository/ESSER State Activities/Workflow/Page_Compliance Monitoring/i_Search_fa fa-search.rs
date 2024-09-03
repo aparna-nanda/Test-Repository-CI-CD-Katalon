@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Search_fa fa-search</name>
+   <tag></tag>
+   <elementGuidId>76a09733-6b62-4286-81cb-41266a35c5ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-search</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>aeee368b-7e44-4feb-961b-e20d89274296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-search</value>
+      <webElementGuid>e07a84e0-9360-4228-9c0e-f645518dfb09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>fe754aaf-0ae2-48b0-b971-7e2ea4a3415e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/eas-core-application-container[1]/div[@class=&quot;exp-application&quot;]/div[@class=&quot;exp-content hide-spliter&quot;]/as-split[@class=&quot;as-horizontal as-pixel as-init&quot;]/as-split-area[@class=&quot;as-split-area&quot;]/div[@class=&quot;exp-panel&quot;]/div[@class=&quot;container-fluid&quot;]/app-search-container[1]/div[@class=&quot;table-display&quot;]/div[@class=&quot;container-fluid&quot;]/app-search-form[1]/div[@class=&quot;row search-form&quot;]/div[@class=&quot;col-md-12&quot;]/eas-ui-lib-card[1]/div[@class=&quot;ohio-card ode-section clearfix&quot;]/div[@class=&quot;show&quot;]/div[@class=&quot;search-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/button[@class=&quot;ohio-button small&quot;]/i[@class=&quot;fa fa-search&quot;]</value>
+      <webElementGuid>494e7b17-f123-41c2-8fa2-886ea9e829cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button/i</value>
+      <webElementGuid>efb03410-cbaf-4583-bdd9-879e27dd2998</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Are you requesting an MATHEMATICS  wa_b8bab1</name>
+   <tag></tag>
+   <elementGuidId>cc3affcf-6047-4e7e-abe1-0d32dfb83d3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@id='101'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c7b02c62-8a3c-4676-83c8-90d6da96962b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>f4537867-a92e-4481-bf29-ccf98f83eed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>101</value>
+      <webElementGuid>0b19bae6-3bad-4676-9bff-4cf8847cbe47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>484a6fbd-e9df-4bc1-a64e-71bf02eb424a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/eas-core-application-container[1]/div[@class=&quot;exp-application&quot;]/div[@class=&quot;exp-content hide-spliter&quot;]/as-split[@class=&quot;as-horizontal as-pixel as-init&quot;]/as-split-area[@class=&quot;as-split-area&quot;]/div[@class=&quot;exp-panel&quot;]/div[@class=&quot;container-fluid&quot;]/app-questions-tab[1]/div[1]/div[@class=&quot;container-fluid results-section&quot;]/eas-mon-surveys-container[1]/div[1]/div[@class=&quot;container-fluid results-section&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/survey-questions-container[1]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;ohio-card ode-section clearfix&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/survey-questions[1]/div[@class=&quot;question-shell&quot;]/div[@class=&quot;ng-star-inserted&quot;]/eas-survey-lib-question[1]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;survey-question-legend utility-active survey-end clearfix&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;ng-star-inserted&quot;]/eas-survey-lib-answer[1]/div[@class=&quot;ng-star-inserted&quot;]/span[@class=&quot;question-answer radio-spacer ng-star-inserted&quot;]/input[@id=&quot;101&quot;]</value>
+      <webElementGuid>64626336-dbde-4c03-83cc-f31352dfaa6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@id='101'])[2]</value>
+      <webElementGuid>8bb55ff3-8392-48af-8962-bbc28609df12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/eas-survey-lib-answer/div/span/input</value>
+      <webElementGuid>cbd1ad29-bcdc-4baa-b49c-b01e17a888d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'radio' and @id = '101']</value>
+      <webElementGuid>4e582b38-4fce-48c3-9e36-f230be6d6c36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Monitoring</name>
+   <tag></tag>
+   <elementGuidId>b3b9b8a0-6fcb-40d3-8e44-de378a379857</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(20) > td</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='emails']/tbody/tr[20]/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>80aa06ad-4fbf-4038-87e7-1c37d9ff0f4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                    Monitoring
+                                                </value>
+      <webElementGuid>7ebd80b4-f68c-4fea-9fc5-9add8aa619f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;emails&quot;)/tbody[@class=&quot;safe home&quot;]/tr[20]/td[1]</value>
+      <webElementGuid>2cd07c5e-d676-473c-b420-2f76cf690e52</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='emails']/tbody/tr[20]/td</value>
+      <webElementGuid>43a1c746-b248-47fe-bff8-8a94599ad6b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learning Management System'])[2]/following::td[1]</value>
+      <webElementGuid>cf97067e-ce27-4a53-98f0-263b4b01214b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learning Management System'])[1]/following::td[2]</value>
+      <webElementGuid>b8131443-8bcf-4e9b-b088-22046146ae4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monitoring'])[2]/preceding::td[1]</value>
+      <webElementGuid>2ed441bc-8327-42a6-8c15-42f10f4c013e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[20]/td</value>
+      <webElementGuid>a4e80fed-b22c-44d2-a2ab-9f77484f7a37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+                                                    Monitoring
+                                                ' or . = '
+                                                    Monitoring
+                                                ')]</value>
+      <webElementGuid>f77f3781-3d58-4712-ad46-866a6383c12e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

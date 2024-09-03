@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Issue Search</description>
+   <name>Issue Search_Issue Source</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>352be1c5-829f-41c8-9575-a8e610e214d9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1efc2991-766c-49d0-8543-ddb14df2c371</id>
+      <masked>false</masked>
+      <name>IRN</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d208484a-2683-4713-8682-cfd4f01ae7d1</id>
+      <masked>false</masked>
+      <name>Sponsor</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>57aba897-ddab-4cbb-b029-9a039c344451</id>
+      <masked>false</masked>
+      <name>CTPD</name>
+   </variable>
+</TestCaseEntity>

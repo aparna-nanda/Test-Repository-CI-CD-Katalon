@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Submitted In Progress Superintendent_80472b</name>
+   <tag></tag>
+   <elementGuidId>af50a822-75a9-446d-ad60-2bb2ce185716</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='surveyWorkFlowState'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>b318e2cd-1cf0-4e97-bed1-895021e3c9ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>sg-native-dropdown-name</value>
+      <webElementGuid>eff2580e-f2cd-4e7f-a90b-59899ad6995d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>surveyWorkFlowState</value>
+      <webElementGuid>1e9833ac-dabc-4f54-a1aa-5bf9673f181a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ohio-select-select-el</value>
+      <webElementGuid>5133692e-1765-49ed-8a46-0a8726b577af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Submitted In Progress Superintendent Approved</value>
+      <webElementGuid>87eaf946-c4e8-4f05-b45d-fd816c2bf2de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/eas-core-application-container[1]/div[@class=&quot;exp-application&quot;]/div[@class=&quot;exp-content hide-spliter&quot;]/as-split[@class=&quot;as-horizontal as-pixel as-init&quot;]/as-split-area[@class=&quot;as-split-area&quot;]/div[@class=&quot;exp-panel&quot;]/div[@class=&quot;container-fluid&quot;]/app-questions-tab[1]/div[1]/div[@class=&quot;container-fluid results-section&quot;]/eas-mon-surveys-container[1]/div[1]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;ohio-card ode-section clearfix&quot;]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/eas-mon-survey-list[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 child&quot;]/eas-mon-child-survey-list[1]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/div[@class=&quot;ohio-table&quot;]/table[@class=&quot;table table-striped table-hover&quot;]/tbody[1]/tr[@class=&quot;tableRow rowSelected ng-star-inserted&quot;]/td[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;dropdown-container ng-star-inserted&quot;]/div[@class=&quot;dropdown-div&quot;]/label[@class=&quot;ohio-select&quot;]/span[@class=&quot;ohio-select-select fa&quot;]/select[@id=&quot;surveyWorkFlowState&quot;]</value>
+      <webElementGuid>71c64d04-de85-43e9-8858-eb631f5db282</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='surveyWorkFlowState'])[2]</value>
+      <webElementGuid>ca7b204d-4eda-4573-80b8-4699adc5d7f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AN8765436'])[1]/following::select[1]</value>
+      <webElementGuid>8a010c1c-dfe5-4ebc-a086-210b49df1c07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Survey'])[2]/following::select[1]</value>
+      <webElementGuid>de6f8cce-9ecf-42d1-94f5-9d6446d435a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Student'])[1]/preceding::select[1]</value>
+      <webElementGuid>981b674d-0463-4cf7-b796-0fb3bdef6eab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous 5 Results'])[1]/preceding::select[1]</value>
+      <webElementGuid>6ca53667-9211-4f63-89c2-bdcb308b5d3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[5]/div/div/label/span/select</value>
+      <webElementGuid>cd43fc88-5f9b-4ea2-b27d-42ff7282b764</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'sg-native-dropdown-name' and @id = 'surveyWorkFlowState' and (text() = ' Submitted In Progress Superintendent Approved' or . = ' Submitted In Progress Superintendent Approved')]</value>
+      <webElementGuid>6cbeb0eb-5de1-4635-920c-2c9d1e30ba99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

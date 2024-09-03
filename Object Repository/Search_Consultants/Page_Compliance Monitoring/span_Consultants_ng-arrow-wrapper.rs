@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Consultants_ng-arrow-wrapper</name>
+   <tag></tag>
+   <elementGuidId>b0d96f51-1722-4ce2-b4e0-fcccd61aa517</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/div[2]/div/app-search-container/div/div/app-search-form/div/div/eas-ui-lib-card/div/div/div/div/div[3]/app-ng-select-filter/eas-ui-lib-form-group/label/ng-select/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-arrow-wrapper</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;overflow-outer&quot;]/div[@class=&quot;overflow-inner&quot;]/app-search-container[1]/div[@class=&quot;table-display&quot;]/div[@class=&quot;container-fluid&quot;]/app-search-form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/eas-ui-lib-card[1]/div[@class=&quot;ohio-card ode-section clearfix&quot;]/div[@class=&quot;show&quot;]/div[@class=&quot;search-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/app-ng-select-filter[1]/eas-ui-lib-form-group[1]/label[@class=&quot;ohio-select&quot;]/ng-select[@class=&quot;ng-select ng-select-multiple ng-select-searchable ng-select-clearable ng-pristine ng-valid ng-select-focused ng-select-top ng-touched&quot;]/div[@class=&quot;ng-select-container&quot;]/span[@class=&quot;ng-arrow-wrapper&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/div[2]/div/app-search-container/div/div/app-search-form/div/div/eas-ui-lib-card/div/div/div/div/div[3]/app-ng-select-filter/eas-ui-lib-form-group/label/ng-select/div/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultants'])[1]/following::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Survey Compliance Status'])[1]/following::span[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Results Count'])[1]/preceding::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort Order'])[1]/preceding::span[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-select/div/span</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DistrictBuilding Information</name>
+   <tag></tag>
+   <elementGuidId>f1b364c8-d72f-43e7-adf2-a32c25cc9356</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sectionName1</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'sectionName1' and (text() = 'District/Building Information' or . = 'District/Building Information')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='sectionName1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4756e3cf-0207-4ce1-9679-af4ae32bdfde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sectionName1</value>
+      <webElementGuid>cb0ca191-2814-43d2-9d3a-7e153e4e2fda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>District/Building Information</value>
+      <webElementGuid>5dc0d91d-8a5a-40d6-ab44-ef58b579847a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sectionName1&quot;)</value>
+      <webElementGuid>7b3083c4-e2e7-40db-828e-5755d9b5ffc9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='sectionName1']</value>
+      <webElementGuid>66923e9c-e345-4c84-bb92-9f280f003957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='section1']/span/span[2]</value>
+      <webElementGuid>6d3c1bd8-b76b-4c92-9411-ca3b366707f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information and Instructions'])[1]/following::span[8]</value>
+      <webElementGuid>251da29b-a22a-4049-8736-948a00952be7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LEA'])[1]/following::span[11]</value>
+      <webElementGuid>09cc9036-7c03-4fdb-8cc6-f11fb5716b9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identify Tests Missed'])[1]/preceding::span[7]</value>
+      <webElementGuid>61fc9e4e-857f-4dbb-b05d-24715d979d34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medical Waiver Information'])[1]/preceding::span[15]</value>
+      <webElementGuid>ec56a560-df72-4b5c-8795-63238975452e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='District/Building Information']/parent::*</value>
+      <webElementGuid>8e1871c2-cf5b-4e75-98a5-4b2f2ff12be7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/li/a/span/span[2]</value>
+      <webElementGuid>2653b294-c7b6-47ba-a3eb-76c4f6bcf88a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'sectionName1' and (text() = 'District/Building Information' or . = 'District/Building Information')]</value>
+      <webElementGuid>21fca006-85b5-46a4-98bd-f06ae2856825</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

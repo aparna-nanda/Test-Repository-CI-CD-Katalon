@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Participant</name>
+   <tag></tag>
+   <elementGuidId>0cc2d2ba-5a5b-4468-8c6f-be301da37ca1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ohio-button.secondary.particpant-button.small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e64d27f9-d120-477c-b278-bb7b341bec6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>972ae4df-41c2-4ef2-aa1a-31e343e35ff7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ohio-button secondary particpant-button small</value>
+      <webElementGuid>481e2fdd-6290-4458-85b8-53144fc8226e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Participant</value>
+      <webElementGuid>c2b3a655-6d3e-4822-8f1d-d0b3cf45b1ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/eas-core-application-container[1]/div[@class=&quot;exp-application&quot;]/div[@class=&quot;exp-content hide-spliter&quot;]/as-split[@class=&quot;as-horizontal as-pixel as-init&quot;]/as-split-area[@class=&quot;as-split-area&quot;]/div[@class=&quot;exp-panel&quot;]/div[@class=&quot;container-fluid&quot;]/app-meeting[1]/div[@class=&quot;table-display&quot;]/div[@class=&quot;container-fluid results-section&quot;]/div[@class=&quot;ohio-card ode-section clearfix&quot;]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/app-new-meeting[1]/div[@class=&quot;row fade-in&quot;]/div[@class=&quot;col-md-12&quot;]/app-meeting-participant[1]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;participant-container section-focus&quot;]/div[@class=&quot;show-info fade-in&quot;]/ul[@class=&quot;form-list&quot;]/li[@class=&quot;add-participant&quot;]/button[@class=&quot;ohio-button secondary particpant-button small&quot;]</value>
+      <webElementGuid>a867eff0-deb6-45af-a678-22c4d165b997</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>47ed3d0e-3604-4757-a86b-375474e89eec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adam N Sandhoff'])[1]/following::button[1]</value>
+      <webElementGuid>f0c3e8a3-d6de-4a16-b702-c8d5bc336d9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::button[1]</value>
+      <webElementGuid>6978327b-97b8-42f5-9411-05afc06442d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responsibilty'])[1]/preceding::button[1]</value>
+      <webElementGuid>54517578-c62c-4356-8215-9b5c135ee2ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program'])[1]/preceding::button[1]</value>
+      <webElementGuid>72e6f3ec-b13d-45f0-8915-ff9c1135501e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Participant']/parent::*</value>
+      <webElementGuid>01f383f3-9d06-497e-a381-edc2dcd8557b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/button</value>
+      <webElementGuid>ec1e8e1d-3ce8-45aa-b8ab-e8c50046a513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add Participant' or . = 'Add Participant')]</value>
+      <webElementGuid>b5364cff-d6a2-473d-9747-d440c90f3d80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

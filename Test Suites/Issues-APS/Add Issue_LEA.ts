@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Add Issue_LEA</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>35fc15e1-5101-49bc-8ec1-890a54fbe444</testSuiteGuid>
+   <testCaseLink>
+      <guid>f6a6e7f5-e7a9-42bf-acf0-ba6ed8b1aec0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Issue-APS/Add New Issue</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>93420b87-011a-4db0-b7fa-0bf23a2499b4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Login_Admin</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>93420b87-011a-4db0-b7fa-0bf23a2499b4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>2fad97ca-de4c-400e-8b85-cbed4a88ac6a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>93420b87-011a-4db0-b7fa-0bf23a2499b4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>76e0f990-1d65-45bb-a1f5-6fbe9cc1ca45</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>aefaee87-eb46-4568-a5aa-5bfab047c700</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Issue-APS/Add New Issue Disabled for LEAs</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>0e8aed04-4474-4a77-95b7-01795d67f15a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/LEAs_CharterSchool</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>0e8aed04-4474-4a77-95b7-01795d67f15a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>bb9a1c65-0a3f-42d1-a35e-a1ff7de88624</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0e8aed04-4474-4a77-95b7-01795d67f15a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>a2ef33d3-ca72-4cb0-9aa7-f90591c58aff</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

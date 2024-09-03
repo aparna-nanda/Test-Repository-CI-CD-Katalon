@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Published to Master Calendar_fas fa-ellip_fd2f84_1</name>
+   <tag></tag>
+   <elementGuidId>1024f558-da86-40e1-a90f-fd324a34ab56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-ellipsis-v.fa-lg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>eda62a7e-7cc9-486e-bc4a-c7f86a1c8131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-ellipsis-v fa-lg</value>
+      <webElementGuid>8c5a0b71-9cc6-472c-8dd7-b925a90e75ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>265fa35f-0f90-4943-a4ac-a2967c34990d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/eas-core-application-container[1]/div[@class=&quot;exp-application&quot;]/div[@class=&quot;exp-content hide-spliter&quot;]/as-split[@class=&quot;as-horizontal as-pixel as-init&quot;]/as-split-area[@class=&quot;as-split-area&quot;]/div[@class=&quot;exp-panel&quot;]/div[@class=&quot;container-fluid&quot;]/app-meeting[1]/div[@class=&quot;table-display&quot;]/div[@class=&quot;container-fluid results-section&quot;]/div[@class=&quot;ohio-card ode-section clearfix&quot;]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/app-results-meeting[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;ohio-table&quot;]/table[@class=&quot;table sub-actions table-stripped table-hover&quot;]/tbody[1]/tr[@class=&quot;selected&quot;]/td[@class=&quot;show-extra&quot;]/a[1]/i[@class=&quot;fas fa-ellipsis-v fa-lg&quot;]</value>
+      <webElementGuid>7cbfaf06-7539-4115-87d9-68428752ab2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a/i</value>
+      <webElementGuid>4902ac59-79f3-4bfd-affc-4a03d8926e90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

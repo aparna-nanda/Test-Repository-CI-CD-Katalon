@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Monitoring</name>
+   <tag></tag>
+   <elementGuidId>35b43975-7ba6-4c99-8334-fea99ab2b8ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='emails']/tbody/tr[23]/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(23) > td > a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'https://monitoringqa.education.ohio.gov/?auth=qa' and (text() = 'Monitoring' or . = 'Monitoring')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f5b14231-6c46-4d38-8501-a12f50f0a633</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://monitoringqa.education.ohio.gov/?auth=qa</value>
+      <webElementGuid>0072a660-0352-421f-8aed-9f56998e6f90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Monitoring</value>
+      <webElementGuid>ed1ff7d6-e3ad-4f61-9e3f-ae8e6c0f5255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;emails&quot;)/tbody[@class=&quot;safe home&quot;]/tr[23]/td[1]/a[1]</value>
+      <webElementGuid>738ed704-5731-4908-80d7-b41856420b96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='emails']/tbody/tr[23]/td/a</value>
+      <webElementGuid>1861627d-bef9-4826-8eed-e17566a7cdba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Monitoring')]</value>
+      <webElementGuid>47402c5b-fcff-4887-8a83-3181f59a6346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grant Life Cycle'])[1]/following::a[1]</value>
+      <webElementGuid>b2b620ad-e601-46db-82de-6444ed0ed46f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grant Life Cycle - Dev'])[1]/following::a[1]</value>
+      <webElementGuid>4280a867-010f-43d3-ab38-aa1ffd6a986e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monitoring'])[2]/preceding::a[1]</value>
+      <webElementGuid>afb90299-f706-4b0d-bc87-e4836eb10150</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monitoring DEV'])[1]/preceding::a[1]</value>
+      <webElementGuid>7979afa0-8eb6-45d6-8ad0-7d6fa917e8eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Monitoring']/parent::*</value>
+      <webElementGuid>b5709681-1871-4c6e-8452-b3cd7a2f9ef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://monitoringqa.education.ohio.gov/?auth=qa')]</value>
+      <webElementGuid>6ba44f3c-59bd-4274-a6de-dee8447d1293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[23]/td/a</value>
+      <webElementGuid>3372fc87-3102-4ccb-b5ee-1a28653a2add</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://monitoringqa.education.ohio.gov/?auth=qa' and (text() = 'Monitoring' or . = 'Monitoring')]</value>
+      <webElementGuid>7fae3f11-75d9-4f8c-b26f-51aa0f48cad9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

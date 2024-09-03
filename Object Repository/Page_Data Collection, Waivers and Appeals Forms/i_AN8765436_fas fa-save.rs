@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_AN8765436_fas fa-save</name>
+   <tag></tag>
+   <elementGuidId>f324d0e7-2a7a-49f0-b77c-e50a9f6b45c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.tableRow.rowSelected.selected > td:nth-of-type(5) > div.dropdown-container > div:nth-of-type(2) > button.ohio-button.x-small > i.fas.fa-save</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[4]/td[5]/div/div[2]/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8c57a55b-b748-4ae5-8a4e-d5758498f9b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-save</value>
+      <webElementGuid>823fc798-41b3-4159-8cf0-3db236fa86f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a1ddf24b-63d5-4b16-9e07-2eb7034b9235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/eas-core-application-container[1]/div[@class=&quot;exp-application&quot;]/div[@class=&quot;exp-content hide-spliter&quot;]/as-split[@class=&quot;as-horizontal as-pixel as-init&quot;]/as-split-area[@class=&quot;as-split-area&quot;]/div[@class=&quot;exp-panel&quot;]/div[@class=&quot;container-fluid&quot;]/app-questions-tab[1]/div[1]/div[@class=&quot;container-fluid results-section&quot;]/eas-mon-surveys-container[1]/div[1]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;ohio-card ode-section clearfix&quot;]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/eas-mon-survey-list[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 child&quot;]/eas-mon-child-survey-list[1]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/div[@class=&quot;ohio-table&quot;]/table[@class=&quot;table table-striped table-hover&quot;]/tbody[1]/tr[@class=&quot;tableRow rowSelected selected&quot;]/td[5]/div[@class=&quot;dropdown-container&quot;]/div[2]/button[@class=&quot;ohio-button x-small&quot;]/i[@class=&quot;fas fa-save&quot;]</value>
+      <webElementGuid>02467850-9a63-4bb7-85fc-e89eb3e91f74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[5]/div/div[2]/button/i</value>
+      <webElementGuid>2942f33c-69c3-4567-82c1-aab0403ef58f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

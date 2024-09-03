@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that LEAs should not be able to start survey.</description>
+   <name>LEA_Not Able to Start Survey</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3844843f-8357-421b-aa26-9953d0e8931f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1c37f267-3eed-4209-b151-0accd20c6fbd</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b46667f3-acbf-4f0b-b58d-1630bc2deb86</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e6670fff-19e7-4f60-a064-46b38a9a3d25</id>
+      <masked>false</masked>
+      <name>IRN</name>
+   </variable>
+</TestCaseEntity>

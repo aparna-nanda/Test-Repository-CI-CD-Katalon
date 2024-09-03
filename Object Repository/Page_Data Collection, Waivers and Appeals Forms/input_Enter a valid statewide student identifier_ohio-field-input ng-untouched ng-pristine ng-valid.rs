@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Enter a valid statewide student identifier_ohio-field-input ng-untouched ng-pristine ng-valid</name>
+   <tag></tag>
+   <elementGuidId>7e6fbc03-3775-4862-8b2d-bc764465eadc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @name = 'e001']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.ohio-field-input.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>01f68d50-7191-4dee-a960-c69a090c1c46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>b25350bd-ae5c-41e8-97d5-a1873290a7c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>size</name>
+      <type>Main</type>
+      <value>small</value>
+      <webElementGuid>cb0e95a4-d6df-4787-b830-44afe4c9123f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ohio-field-input ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>fac72378-11c4-4417-b66d-f8318e93abd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/eas-core-application-container[1]/div[@class=&quot;exp-application&quot;]/div[@class=&quot;exp-content hide-spliter&quot;]/as-split[@class=&quot;as-horizontal as-pixel as-init&quot;]/as-split-area[@class=&quot;as-split-area&quot;]/div[@class=&quot;exp-panel&quot;]/div[@class=&quot;container-fluid&quot;]/app-questions-tab[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid results-section&quot;]/eas-mon-surveys-container[@class=&quot;ng-star-inserted&quot;]/div[1]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;ohio-card ode-section clearfix&quot;]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/eas-mon-survey-list[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 child&quot;]/eas-mon-child-survey-list[1]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/div[@class=&quot;ohio-table&quot;]/table[@class=&quot;table table-striped table-hover&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;view-line-container&quot;]/eas-mon-add-rcw-student[1]/div[@class=&quot;view-line-card&quot;]/eas-ui-lib-spinner[1]/div[@class=&quot;loader-page&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ohio-multi-select&quot;]/input[@class=&quot;ohio-field-input ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>cb059aa9-f90e-4030-8611-951576a70c4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>8f57fc9e-1977-4f86-8860-9ad8067f8621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>8e9140c6-3b08-422d-b24a-e53e8077ff5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>549262f5-8b24-4beb-8a93-c7c9ece8202f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

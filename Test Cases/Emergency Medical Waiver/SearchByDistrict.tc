@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SearchByDistrict</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3cf95538-ba96-4429-a381-0e9550bf6b1a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>db7c95fc-b4a0-4f36-a3d3-c077c1b68d09</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>db7c95fc-b4a0-4f36-a3d3-c077c1b68d09</id>
+      <masked>false</masked>
+      <name>IRN</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_043802 - Columbus City Schools District</name>
+   <tag></tag>
+   <elementGuidId>3f98895d-f3f9-4473-bda4-d8a0a0cdc369</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='searchResult83424']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#searchResult83424</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>21a6c1b5-3481-4606-abca-cf0ea9e0801b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>searchResult83424</value>
+      <webElementGuid>6a2c4508-3f53-402d-9535-0c09d0e3d62f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/overview/83424?appPeriodKey=18502&amp;orgIrn=043802&amp;fiscalYear=2024</value>
+      <webElementGuid>092eaadc-fbe3-4648-839a-5d5c5b5f93e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>043802 - Columbus City Schools District</value>
+      <webElementGuid>7f61fe88-ba79-4ea7-a127-02a08a5d4cd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchResult83424&quot;)</value>
+      <webElementGuid>90dc9d5d-7e3b-4823-b68b-b5f72b5e4526</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='searchResult83424']</value>
+      <webElementGuid>3164bede-58f8-4f78-8ead-7bb79d1d6389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'043802 - Columbus City Schools District')]</value>
+      <webElementGuid>0e8e1421-0998-4e45-8772-3be766031775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compliant'])[5]/following::a[1]</value>
+      <webElementGuid>55636926-8473-4375-a905-9602b69bcd03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In Progress'])[5]/following::a[1]</value>
+      <webElementGuid>dc513d2b-34f4-4965-b401-afe17dfb24b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ESSER FY 2024'])[5]/preceding::a[1]</value>
+      <webElementGuid>d90c61e3-5a3d-43e4-8c0b-2046a4771b22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Started'])[5]/preceding::a[1]</value>
+      <webElementGuid>71cde6b0-8851-409a-918f-c593440b954d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='043802 - Columbus City Schools District']/parent::*</value>
+      <webElementGuid>d2569f2f-9240-47d4-95ec-13f9aaac5125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/overview/83424?appPeriodKey=18502&amp;orgIrn=043802&amp;fiscalYear=2024')]</value>
+      <webElementGuid>3e89919e-973e-45dd-99b8-1421abbfb156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td/a</value>
+      <webElementGuid>14e28623-52b5-48c1-9c24-2ea914dd7b03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'searchResult83424' and @href = '/overview/83424?appPeriodKey=18502&amp;orgIrn=043802&amp;fiscalYear=2024' and (text() = '043802 - Columbus City Schools District' or . = '043802 - Columbus City Schools District')]</value>
+      <webElementGuid>e2c41dc4-a7b9-4682-b27e-0690c8c6214d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

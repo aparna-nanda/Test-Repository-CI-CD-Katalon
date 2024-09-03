@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test if user is able to search by selecting from 'Consultants' dropdown.</description>
+   <name>Search by Consultants</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>45256592-0925-42fa-9410-710ee358581a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>620d4c78-e86d-469d-acd2-05b80af12bfd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>620d4c78-e86d-469d-acd2-05b80af12bfd</id>
+      <masked>false</masked>
+      <name>Consultant</name>
+   </variable>
+</TestCaseEntity>

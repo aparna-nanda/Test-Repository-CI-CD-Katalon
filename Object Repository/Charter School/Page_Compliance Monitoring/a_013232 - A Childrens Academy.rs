@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_013232 - A Childrens Academy</name>
+   <tag></tag>
+   <elementGuidId>8ef063ba-4130-4135-b20a-de3b0ee290bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='searchResult82681']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#searchResult82681</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ec0808b3-b8af-40eb-9eeb-c979c713fce0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>searchResult82681</value>
+      <webElementGuid>a87195bb-851c-48c8-8081-225c926052a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/overview/82681?appPeriodKey=16307&amp;orgIrn=013232&amp;fiscalYear=2024</value>
+      <webElementGuid>b3a05122-e78f-40c9-98fc-725e25d1f68d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>013232 - A+ Children's Academy</value>
+      <webElementGuid>83346a73-0aff-4400-af3e-d79002ff49ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchResult82681&quot;)</value>
+      <webElementGuid>25164f91-4d01-4808-9b28-c61442e85e0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='searchResult82681']</value>
+      <webElementGuid>e3772e44-39e6-4fc1-a907-b83db1219b5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sponsor'])[1]/following::a[1]</value>
+      <webElementGuid>b7b0d63a-a011-47e2-a436-3dc6241d5878</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='District'])[1]/following::a[1]</value>
+      <webElementGuid>d874377d-6605-4e90-8d31-7254a6bd083e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Charter School Program Grant FY 2024'])[2]/preceding::a[1]</value>
+      <webElementGuid>74bf8104-67e5-4bbb-92e9-aca9743aee90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Started'])[5]/preceding::a[1]</value>
+      <webElementGuid>021d15bb-5c4b-4551-ba77-9117c8c8f6e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/overview/82681?appPeriodKey=16307&amp;orgIrn=013232&amp;fiscalYear=2024')]</value>
+      <webElementGuid>1a6158df-cbe2-4b0c-a888-60e0a9894d3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>e8afca95-e76b-4809-98cc-1f651a55f4f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'searchResult82681' and @href = '/overview/82681?appPeriodKey=16307&amp;orgIrn=013232&amp;fiscalYear=2024' and (text() = concat(&quot;013232 - A+ Children&quot; , &quot;'&quot; , &quot;s Academy&quot;) or . = concat(&quot;013232 - A+ Children&quot; , &quot;'&quot; , &quot;s Academy&quot;))]</value>
+      <webElementGuid>6e1cad9e-1c09-46a6-bec2-9b9cd186b49e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

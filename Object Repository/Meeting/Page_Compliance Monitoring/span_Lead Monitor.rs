@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Lead Monitor</name>
+   <tag></tag>
+   <elementGuidId>799a9a47-f5cf-4346-b296-0aefc81abbff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ae71658d9c90-0']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-option-label</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Lead Monitor' or . = 'Lead Monitor')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6133e390-95cd-4854-b345-b4bd5a32bb19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-option-label</value>
+      <webElementGuid>fbf467ca-3d5c-4f25-941b-7cc2716f4f85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lead Monitor</value>
+      <webElementGuid>1f1d6aff-92ac-4de4-be52-958a6d559379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ae71658d9c90-0&quot;)/span[@class=&quot;ng-option-label&quot;]</value>
+      <webElementGuid>27ed5de1-9910-491d-86c0-1a6ba78c020c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ae71658d9c90-0']/span</value>
+      <webElementGuid>ded07760-8f15-43fc-829e-688ec4d4eb19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::span[3]</value>
+      <webElementGuid>0f942a40-6111-44be-ae51-5f7f2fa7b5d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monitor'])[1]/preceding::span[1]</value>
+      <webElementGuid>86aa1f3b-9456-4f0e-bb11-199708099c74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lead LEA'])[1]/preceding::span[2]</value>
+      <webElementGuid>78f8af13-d0dd-4642-8fbc-ff5ced97980c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lead Monitor']/parent::*</value>
+      <webElementGuid>a1fc6700-2bcd-41b7-ae96-dd7b8ad8ccbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ng-dropdown-panel/div/div[2]/div/span</value>
+      <webElementGuid>63f8a012-b90c-4635-b198-f9780f124128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Lead Monitor' or . = 'Lead Monitor')]</value>
+      <webElementGuid>0d58f562-62cf-4774-9760-852e4a5cfa3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,5 @@
+[0623/185148.367:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0623/185148.370:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0623/185148.371:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[1208/165223.404:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1209/174110.534:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

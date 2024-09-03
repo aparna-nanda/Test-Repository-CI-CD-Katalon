@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_ODE View OnlyAdmin</name>
+   <tag></tag>
+   <elementGuidId>61cf6bac-ea95-4833-b2f5-ab7e60ed16df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#audience</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='audience']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>5e0e1fea-800e-4788-9144-a16c40440858</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>audience</value>
+      <webElementGuid>3c65a399-e4ac-4dae-8ae3-1cd2e345769c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>audience</value>
+      <webElementGuid>9150a475-3c44-4ff0-a4d5-49656b4e9aed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ohio-select-select-el ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>aec4e43b-0aa4-4e60-bb27-df11862a40a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ODE View OnlyAdmin</value>
+      <webElementGuid>784971ed-de2b-40c0-8de9-9264dcfc6ea1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;audience&quot;)</value>
+      <webElementGuid>e23ea4eb-1ea6-4f47-baa9-954e99fd6a94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='audience']</value>
+      <webElementGuid>1510b41f-df95-4bf4-a6bf-57a669c875eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View As'])[1]/following::select[1]</value>
+      <webElementGuid>2958e923-fdfc-45ff-9e51-7dce90a7f124</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select A Program'])[1]/following::select[1]</value>
+      <webElementGuid>a5480f55-44b2-4b79-b3f9-b7b96637396d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program Associated To'])[1]/preceding::select[1]</value>
+      <webElementGuid>7f2f4b5f-ec22-405f-85c2-a2ee3aa1e5ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Advisory Councils'])[1]/preceding::select[1]</value>
+      <webElementGuid>36bbdc33-1f5d-42fd-8a52-7ade9f022b6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>c36e5d73-3587-4a4c-a23b-127cacf681c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'audience' and @id = 'audience' and (text() = 'ODE View OnlyAdmin' or . = 'ODE View OnlyAdmin')]</value>
+      <webElementGuid>700b5ee7-8856-4186-938c-26c3b6a66716</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Medical Waiver Information</name>
+   <tag></tag>
+   <elementGuidId>707aef2f-d0b4-4270-bef0-25184c7977ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sectionName3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='sectionName3']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1b4fd886-ba95-42aa-9bde-f37f47021a73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sectionName3</value>
+      <webElementGuid>6a19abf4-4dc1-407a-999e-e05618c6f59d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Medical Waiver Information</value>
+      <webElementGuid>64070971-68c6-4b49-89d1-21aaeff2d456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sectionName3&quot;)</value>
+      <webElementGuid>ae6a32ee-d9e1-405c-ae66-27317bbc4b46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='sectionName3']</value>
+      <webElementGuid>ae55f099-9a1d-4f5b-93ff-83a1c0d7e435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='section3']/span/span[2]</value>
+      <webElementGuid>a97c3871-76eb-4700-8625-422b2032311b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Identify Tests Missed'])[1]/following::span[8]</value>
+      <webElementGuid>a4968fdd-281a-42e0-9d1a-1683d1870293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='District/Building Information'])[1]/following::span[16]</value>
+      <webElementGuid>3a5014e9-541c-4248-8f81-41bb82807eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Information'])[1]/preceding::span[7]</value>
+      <webElementGuid>00a46f85-bd69-49c0-8865-825b5f41664f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Questions'])[2]/preceding::span[14]</value>
+      <webElementGuid>e20bd89d-ab9d-46f1-a79b-b6ca40c89142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Medical Waiver Information']/parent::*</value>
+      <webElementGuid>95c39551-e231-42f9-b347-4aa2aa56d136</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/li/a/span/span[2]</value>
+      <webElementGuid>814e8aae-c4ef-48f0-8876-36b4c4db473c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'sectionName3' and (text() = 'Medical Waiver Information' or . = 'Medical Waiver Information')]</value>
+      <webElementGuid>f1a214d7-49e8-4956-93fa-21fc5ec2999c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Identify Tests Missed</name>
+   <tag></tag>
+   <elementGuidId>a6f4e768-31de-49e4-8bc6-8500682080ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sectionName2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='sectionName2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ad85ff92-b668-401f-b62b-ba7944fd4f36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sectionName2</value>
+      <webElementGuid>1bfc27dc-b1d2-4263-aeaf-f206a6dd5c6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Identify Tests Missed</value>
+      <webElementGuid>5c41170c-bc82-49b9-a168-91f60db64788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sectionName2&quot;)</value>
+      <webElementGuid>f0c104c4-df8d-400a-aeee-e3cfd25c4a26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='sectionName2']</value>
+      <webElementGuid>a5e0e846-587a-409b-a8f6-59061ff7f36c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='section2']/span/span[2]</value>
+      <webElementGuid>c9ca7904-6af4-410f-819c-03258b16ae29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='District/Building Information'])[1]/following::span[8]</value>
+      <webElementGuid>edd6d4ae-c27a-4723-85e6-e06c3d827212</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information and Instructions'])[1]/following::span[16]</value>
+      <webElementGuid>00a003c7-3a04-499f-86b5-cbf8cc87c6a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Medical Waiver Information'])[1]/preceding::span[7]</value>
+      <webElementGuid>54b6fdd8-d2be-42e6-ad7e-feb15ccf4f3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Information'])[1]/preceding::span[15]</value>
+      <webElementGuid>37e0c2f7-3066-4fa8-8a53-727bae28c72d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Identify Tests Missed']/parent::*</value>
+      <webElementGuid>0f29cb8b-89aa-423b-a650-529952b5137f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/li/a/span/span[2]</value>
+      <webElementGuid>e5b4e3ec-c809-4215-aaa2-dd472f96fc19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'sectionName2' and (text() = 'Identify Tests Missed' or . = 'Identify Tests Missed')]</value>
+      <webElementGuid>fa5ae05a-e509-4410-9300-92e81c763c64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

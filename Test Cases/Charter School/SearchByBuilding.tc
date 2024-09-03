@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search by district.</description>
+   <name>SearchByBuilding</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>138bb7c6-6ba4-4dd5-8c2b-9fa12eabf488</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a80591e2-1d21-46bd-ba43-518e9f26c3a6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a80591e2-1d21-46bd-ba43-518e9f26c3a6</id>
+      <masked>false</masked>
+      <name>IRN</name>
+   </variable>
+</TestCaseEntity>

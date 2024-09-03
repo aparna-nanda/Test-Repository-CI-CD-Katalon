@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_New Meeting</name>
+   <tag></tag>
+   <elementGuidId>4319cd6b-2caf-49dd-b3b5-334480322285</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#bt3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='bt3']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0f6d3190-80bd-4ace-967b-e6fe8be209ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>bt3</value>
+      <webElementGuid>ebcb0cd0-b8e7-4872-bfa3-924ba1a5207a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>e817f820-f88d-4051-8e16-ed210794a213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ohio-button x-small add-new</value>
+      <webElementGuid>fe9694c1-c2d7-4c9b-8328-683cc60e72bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Meeting</value>
+      <webElementGuid>2f6d9bcc-6a68-43da-9981-3587ccc03d5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bt3&quot;)</value>
+      <webElementGuid>7b00745f-ba25-4836-8f5f-bf4862ba06ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='bt3']</value>
+      <webElementGuid>a8f3b388-adbe-4125-8062-ec3faa9f33fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*Required'])[1]/following::button[1]</value>
+      <webElementGuid>0622daad-f08d-4ac0-9c36-491a27e3ea62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meeting'])[2]/following::button[1]</value>
+      <webElementGuid>faee1a89-5bd5-4970-ada0-28c4ae3acab7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meeting List'])[1]/preceding::button[1]</value>
+      <webElementGuid>506fb3c3-b9f3-425b-a136-d1f68035ebdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Title'])[1]/preceding::button[1]</value>
+      <webElementGuid>f26f493c-fcd2-40fc-85d0-ac3ba77506e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New Meeting']/parent::*</value>
+      <webElementGuid>1f990aba-209b-4e99-8dfa-0e56c7fa106b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/button</value>
+      <webElementGuid>dafa6ede-fb99-435d-8cee-656aa94d44f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'bt3' and @title = 'Search' and (text() = 'New Meeting' or . = 'New Meeting')]</value>
+      <webElementGuid>b72d73cc-377c-4cbe-86c5-4c3ceca25f41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

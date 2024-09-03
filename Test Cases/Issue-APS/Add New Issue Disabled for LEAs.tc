@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Lea should not be able to add new issue.</description>
+   <name>Add New Issue Disabled for LEAs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b4fb755-1cbf-442b-b208-88066bcb47a3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bb9a1c65-0a3f-42d1-a35e-a1ff7de88624</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a2ef33d3-ca72-4cb0-9aa7-f90591c58aff</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

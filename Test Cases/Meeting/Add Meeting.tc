@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add meeting.</description>
+   <name>Add Meeting</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cafd5690-43cb-4bb2-b405-eef773db651a</testCaseGuid>
+</TestCaseEntity>

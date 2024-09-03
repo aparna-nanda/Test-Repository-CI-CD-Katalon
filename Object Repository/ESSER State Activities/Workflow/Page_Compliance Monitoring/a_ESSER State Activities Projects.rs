@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ESSER State Activities Projects</name>
+   <tag></tag>
+   <elementGuidId>d4d9a3d4-01c1-45b3-801e-46ccb7584c6f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='app_id_185']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#app_id_185</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'app_id_185' and (text() = 'ESSER State Activities Projects' or . = 'ESSER State Activities Projects')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>33463cb8-830a-4cab-91cc-e983ef9a9fff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>app_id_185</value>
+      <webElementGuid>2c5fce7f-9019-4d96-9dce-2785fa819aa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ESSER State Activities Projects</value>
+      <webElementGuid>67117ecb-75af-4287-8a9e-682420de9935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_id_185&quot;)</value>
+      <webElementGuid>cb83253d-52a8-4844-8eed-808f29c35d6c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='app_id_185']</value>
+      <webElementGuid>358c7df3-cf43-46a1-a195-7c2feeb42d09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'ESSER State Activities Projects')]</value>
+      <webElementGuid>d0ae8cb1-c565-4ad7-895e-bdbac84a8e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CTE Quality Program Review'])[1]/following::a[1]</value>
+      <webElementGuid>565caea6-ae75-4e7e-a38c-b9c94dc83712</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CTE Perkins Monitoring'])[1]/following::a[2]</value>
+      <webElementGuid>fa0f4adb-9b8d-4889-bf31-dd5516432104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Field Services and Transportation'])[1]/preceding::a[1]</value>
+      <webElementGuid>47e018d7-a07d-4094-97ff-f6ce16049794</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financial Analysis and Oversight'])[1]/preceding::a[2]</value>
+      <webElementGuid>ce08a749-5c78-489c-bf98-046c981732b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ESSER State Activities Projects']/parent::*</value>
+      <webElementGuid>24e763f9-e9b9-4ce9-b40d-037cb05cdb5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[11]/a</value>
+      <webElementGuid>a0f4db32-2199-4e3d-aa17-4750980dc35c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'app_id_185' and (text() = 'ESSER State Activities Projects' or . = 'ESSER State Activities Projects')]</value>
+      <webElementGuid>9b23fcfc-037a-47c6-bf15-77d9bb33befc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

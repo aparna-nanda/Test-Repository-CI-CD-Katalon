@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AnyNot StartedStartedIn ProgressSubm_e92797</name>
+   <tag></tag>
+   <elementGuidId>8efcf197-f644-4768-ae52-89b8f84698dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='surveyCompletionStatus']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#surveyCompletionStatus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c4ada985-aff8-4da8-9b2e-1161a4e5feec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>surveyCompletionStatus</value>
+      <webElementGuid>951aaa92-b884-4838-b853-743b173a0104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>surveyCompletionStatus</value>
+      <webElementGuid>5d3a9707-6d01-4ca5-ad07-df6c2cd1e79e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ohio-select-select-el ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>cb345070-a7ba-425d-b361-4b04e31adfff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AnyNot StartedStartedIn ProgressSubmittedReviewedCompleted</value>
+      <webElementGuid>6fedbce7-3a42-40bb-94d6-334478268a95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;surveyCompletionStatus&quot;)</value>
+      <webElementGuid>bec66b6f-15f6-4958-a424-b61beac19395</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='surveyCompletionStatus']</value>
+      <webElementGuid>1fb7176f-f65e-4ceb-8021-737ff1e691aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Survey Completion Status'])[1]/following::select[1]</value>
+      <webElementGuid>54a8cb1d-75cb-42ef-b880-d7ae640d7495</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Surveys'])[1]/following::select[2]</value>
+      <webElementGuid>348c7015-edab-4c20-8422-fa84f3a5df95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Survey Compliance Status'])[1]/preceding::select[1]</value>
+      <webElementGuid>429ac2f1-6ae4-438a-abc5-8c2dd339577b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultants'])[1]/preceding::select[2]</value>
+      <webElementGuid>1ff718e1-6d56-4566-938e-ecf947ec63ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-select-filter[4]/eas-ui-lib-form-group/label/span[2]/select</value>
+      <webElementGuid>0e66e864-967f-4be8-961c-e719c91cb346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'surveyCompletionStatus' and @name = 'surveyCompletionStatus' and (text() = 'AnyNot StartedStartedIn ProgressSubmittedReviewedCompleted' or . = 'AnyNot StartedStartedIn ProgressSubmittedReviewedCompleted')]</value>
+      <webElementGuid>a63c1269-0abd-443a-9591-95891db42bc1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

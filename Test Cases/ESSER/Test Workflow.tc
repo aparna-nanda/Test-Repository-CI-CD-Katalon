@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Workflow</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dddfb776-5c64-4d53-8bec-fb2833854c8b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>34e3f0b1-4999-44e6-91a6-03d9e29996f2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>34e3f0b1-4999-44e6-91a6-03d9e29996f2</id>
+      <masked>false</masked>
+      <name>IRN</name>
+   </variable>
+</TestCaseEntity>

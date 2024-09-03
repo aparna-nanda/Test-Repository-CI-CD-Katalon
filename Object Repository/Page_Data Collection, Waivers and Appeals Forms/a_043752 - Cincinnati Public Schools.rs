@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_043752 - Cincinnati Public Schools</name>
+   <tag></tag>
+   <elementGuidId>05c153f5-4e20-40bb-b5ac-019a095a7df2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'searchResult83432' and @href = '/overview/83432?appPeriodKey=14902&amp;orgIrn=043752&amp;fiscalYear=2024' and (text() = '043752 - Cincinnati Public Schools' or . = '043752 - Cincinnati Public Schools')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='searchResult84479']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#searchResult84479</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>368298eb-f86a-4518-b83d-aca4fb20f12f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>searchResult84479</value>
+      <webElementGuid>7feba466-4eca-436c-8c85-f3fd7c917085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/overview/84479?appPeriodKey=14902&amp;orgIrn=043752&amp;fiscalYear=2024</value>
+      <webElementGuid>4efcabb7-97ff-4cb5-81ae-360074d442a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>043752 - Cincinnati Public Schools</value>
+      <webElementGuid>53e8daa6-1499-4dcc-9363-e878caa3d4ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchResult84479&quot;)</value>
+      <webElementGuid>793d109b-d801-42c7-a208-197377e6bf2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='searchResult84479']</value>
+      <webElementGuid>2faa2287-d402-40fc-a826-91fc691fe383</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'043752 - Cincinnati Public Schools')]</value>
+      <webElementGuid>32ffe611-62c0-46e0-8f2e-1d52ad9a7085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultants'])[2]/following::a[1]</value>
+      <webElementGuid>eb1636f8-9142-4331-8a33-4dea5203480c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sponsor'])[1]/following::a[1]</value>
+      <webElementGuid>720c3295-589e-4bed-967c-77fe3dcd1ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Emergency Medical Waiver FY 2024'])[2]/preceding::a[1]</value>
+      <webElementGuid>7f25ed91-eb3c-449d-9a5e-76b8ec399eab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not Started'])[3]/preceding::a[1]</value>
+      <webElementGuid>48c36979-76b2-438c-807a-affb98147935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='043752 - Cincinnati Public Schools']/parent::*</value>
+      <webElementGuid>db317a12-1b67-4fd0-bd43-44f562aa660c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/overview/84479?appPeriodKey=14902&amp;orgIrn=043752&amp;fiscalYear=2024')]</value>
+      <webElementGuid>9ee7acda-f69e-40b9-bf95-7163b890b4e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>ca1cbbfd-cb64-497f-af73-75f863b2e157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'searchResult84479' and @href = '/overview/84479?appPeriodKey=14902&amp;orgIrn=043752&amp;fiscalYear=2024' and (text() = '043752 - Cincinnati Public Schools' or . = '043752 - Cincinnati Public Schools')]</value>
+      <webElementGuid>a7fbbd07-252b-4e2d-b745-b4abf376436c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

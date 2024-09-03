@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Emergency Medical Waiver</name>
+   <tag></tag>
+   <elementGuidId>3ab10cb0-1113-437a-a09f-5fe6cad35860</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#app_id_149</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='app_id_149']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9ea27033-af48-4c28-8f26-d1f840528874</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>app_id_149</value>
+      <webElementGuid>d362cc68-eea1-4043-a06d-c7000bbef5f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Emergency Medical Waiver</value>
+      <webElementGuid>641fb8e3-9a48-4917-960a-380e28bc46cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app_id_149&quot;)</value>
+      <webElementGuid>d4226cd4-fc66-4dd1-98f1-809981c8ccbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='app_id_149']</value>
+      <webElementGuid>02931dfa-542a-4226-9b9f-e9d36c2d22aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Emergency Medical Waiver')]</value>
+      <webElementGuid>e2e56048-7048-4a5a-b180-ab65b519f3be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DPIA &amp; SWSF Data Collection Tool'])[1]/following::a[1]</value>
+      <webElementGuid>92d7f976-f432-45f3-89b5-f565c33619dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Appeal'])[1]/following::a[2]</value>
+      <webElementGuid>0b4f47da-edfd-434d-b6d5-a13445cd9fba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EMIS Data Review and Verification'])[1]/preceding::a[1]</value>
+      <webElementGuid>f9a05d68-6dc7-4f4a-a01e-c375a7a9f287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Local Equitable Access Plan'])[1]/preceding::a[2]</value>
+      <webElementGuid>9bf542ad-85bc-4a1e-86f7-2cb01fc91891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Emergency Medical Waiver']/parent::*</value>
+      <webElementGuid>33bdf40f-63e0-4f89-a15a-5fc7f0ae3422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a</value>
+      <webElementGuid>0ad32835-6cc4-40a1-bfb1-51dd8474284d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'app_id_149' and (text() = 'Emergency Medical Waiver' or . = 'Emergency Medical Waiver')]</value>
+      <webElementGuid>412b938d-5a4a-44d8-9aae-99f30b8e8243</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

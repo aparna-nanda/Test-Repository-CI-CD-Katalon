@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_AnyFY 2024 ESSER State Activities Pr_4df43a</name>
+   <tag></tag>
+   <elementGuidId>aca39e7d-7c47-40fc-a027-97d261f499f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='surveys']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#surveys</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>24257138-6638-46c0-b7e7-745de1babf92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>surveys</value>
+      <webElementGuid>b27ee82a-93fb-4dbb-bb97-b4964b069b56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>surveys</value>
+      <webElementGuid>65931bc7-7c1b-4afa-bfb9-8a5d3dfd55ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ohio-select-select-el ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>f78f1dc9-6da3-4cbd-8a4d-68600fee9f39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AnyFY 2024 ESSER State Activities Projects - Quarterly Data Reporting SurveyFY2024 ESSER State Activities Projects - Desk Review SurveyFY2024 ESSER State Activities Projects - Desk Review Survey- Test</value>
+      <webElementGuid>658c53bf-205c-4073-b6cf-4735389051e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;surveys&quot;)</value>
+      <webElementGuid>9d17cfa8-532a-4520-8418-1ace469666f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='surveys']</value>
+      <webElementGuid>4875dd0e-6e17-4d1a-beeb-42ce6fb69d8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Surveys'])[1]/following::select[1]</value>
+      <webElementGuid>6da15f5d-e8ee-4f0f-b036-33e81b564fef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overall Compliance Status'])[1]/following::select[2]</value>
+      <webElementGuid>2ff70218-d6c3-4ce1-9b28-807a08c5e721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Survey Completion Status'])[1]/preceding::select[1]</value>
+      <webElementGuid>68f4e0b7-55bf-47c6-8b0f-05a26b69cea1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Survey Compliance Status'])[1]/preceding::select[2]</value>
+      <webElementGuid>7ca938cd-b760-4547-8d7c-4a33c067d56c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-select-filter[3]/eas-ui-lib-form-group/label/span[2]/select</value>
+      <webElementGuid>5ab86d23-a627-45d6-adfb-8a5d41f4e77f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'surveys' and @name = 'surveys' and (text() = 'AnyFY 2024 ESSER State Activities Projects - Quarterly Data Reporting SurveyFY2024 ESSER State Activities Projects - Desk Review SurveyFY2024 ESSER State Activities Projects - Desk Review Survey- Test' or . = 'AnyFY 2024 ESSER State Activities Projects - Quarterly Data Reporting SurveyFY2024 ESSER State Activities Projects - Desk Review SurveyFY2024 ESSER State Activities Projects - Desk Review Survey- Test')]</value>
+      <webElementGuid>237362de-fa23-456a-a03d-8c4f445ae5b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

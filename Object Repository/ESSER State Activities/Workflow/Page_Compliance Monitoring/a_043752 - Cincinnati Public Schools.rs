@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_043752 - Cincinnati Public Schools</name>
+   <tag></tag>
+   <elementGuidId>44602134-5301-4128-8b8f-2e046b4b2a3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='searchResult78158']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#searchResult78158</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>598a79e4-e16d-4456-bc4c-9786b37d5a9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>searchResult78158</value>
+      <webElementGuid>b37a8dd6-762a-4b13-8bca-a08976fff2cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/overview/78158?appPeriodKey=18502&amp;orgIrn=043752&amp;fiscalYear=2024</value>
+      <webElementGuid>b6e76899-6431-4000-96c5-eb993973a046</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>043752 - Cincinnati Public Schools</value>
+      <webElementGuid>4bfbc2d7-1126-42ff-8231-afaa62fc358a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchResult78158&quot;)</value>
+      <webElementGuid>5586146a-421c-48e9-a6f2-5fc1158edceb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='searchResult78158']</value>
+      <webElementGuid>ed5f4bc4-586a-48b2-9f09-3a076114e225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'043752 - Cincinnati Public Schools')]</value>
+      <webElementGuid>e7ba193b-6058-4c15-839f-7b19aec9fc26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consultants'])[2]/following::a[1]</value>
+      <webElementGuid>4f6c1741-f2b4-4d56-b820-ab94ee5d1695</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sponsor'])[1]/following::a[1]</value>
+      <webElementGuid>2848945c-db4e-489a-ba11-c73aae3d8edd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ESSER FY 2024'])[2]/preceding::a[1]</value>
+      <webElementGuid>e87ced19-573b-4112-be6a-64f586ebcc54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In Progress'])[3]/preceding::a[1]</value>
+      <webElementGuid>42bc5f71-df08-46df-8340-f5f399b7c6b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='043752 - Cincinnati Public Schools']/parent::*</value>
+      <webElementGuid>79ef33c6-175f-4bcf-80fa-68128ad42f0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/overview/78158?appPeriodKey=18502&amp;orgIrn=043752&amp;fiscalYear=2024')]</value>
+      <webElementGuid>e8d79b17-d647-4f10-a6c7-efdeb60fab53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>9343c9ff-87fe-48d4-a142-1ef4eb8ce602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'searchResult78158' and @href = '/overview/78158?appPeriodKey=18502&amp;orgIrn=043752&amp;fiscalYear=2024' and (text() = '043752 - Cincinnati Public Schools' or . = '043752 - Cincinnati Public Schools')]</value>
+      <webElementGuid>81e6fdb0-8a88-4f1d-a04d-f9402bc39f35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
