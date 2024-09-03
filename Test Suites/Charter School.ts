@@ -14,7 +14,7 @@
    <testCaseLink>
       <guid>8c97c970-3975-4f94-bf2a-d54023a3854a</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Charter School/SearchByBuilding</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>

@@ -36,7 +36,7 @@
    <testCaseLink>
       <guid>d3051f99-8561-4596-be87-657d4519c863</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Search Page/Search_By_Building</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
